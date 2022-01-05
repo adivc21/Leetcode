@@ -1,6 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         
+        # # -----x-----x-----
+        # # Solution 1 - One pass through dict() of elements and its indexes
+        # # Time complexity = O(n)
+        # # Space complexity = O(n)
+        
         # Dictionary for storing an element as key and its index as value
         checked = dict()
         
@@ -15,3 +20,6 @@ class Solution:
                 # Return the index of the complement
                 # and the index of the current element
                 return [checked[complement], index]
+        
+        return None
+        # # -----x-----x-----
