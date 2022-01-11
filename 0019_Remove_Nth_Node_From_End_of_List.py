@@ -36,7 +36,7 @@ class Solution:
         # # -----x-----x-----
         
         # # -----x-----x-----
-        # # Solution 1 - One Pass - Two Pointers
+        # # Solution 2 - One Pass - Two Pointers
         # # Time complexity = O(n)
         # # Space complexity = O(1)
         
