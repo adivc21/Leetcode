@@ -22,8 +22,9 @@ class Solution:
         # # -----x-----x-----
 
         # # -----x-----x-----
-        # # Solution 1 - One pass
-        # # Time complexity = O(n)
+        # # Solution 2 - One pass
+        # # n=len(nums), k=worst-case number in nums
+        # # Time complexity = O(n*log10(k))
         # # Space complexity = O(1)
         
         count = 0
