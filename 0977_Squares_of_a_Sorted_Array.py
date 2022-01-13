@@ -4,7 +4,7 @@ class Solution:
         # # -----x-----x-----
         # # Solution 1 - One pass
         # # Time complexity = O(n)
-        # # Space complexity = O(1)
+        # # Space complexity = O(n)
                 
         n = right = len(nums)-1
         left = 0
