@@ -23,7 +23,7 @@ class Solution:
         # # -----x-----x-----
         
         # # -----x-----x-----
-        # # Solution 1 - Assigning indices that don't match
+        # # Solution 2 - Assigning indices that don't match
         # # Time complexity = O(n)
         # # Space complexity = O(1)
         
