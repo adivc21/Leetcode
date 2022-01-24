@@ -25,7 +25,7 @@ class Solution:
 
     
         # # -----x-----x-----
-        # # Solution 2 - Recursion, using List extend and append
+        # # Solution 2 - Recursion
         # # Time complexity = O(n)
         # # Space complexity = O(n)
         
